@@ -17,6 +17,7 @@ My choice:
   * I bought it from Taobao
 * Back Cover
   * Material: Acrylic
+  * Designed with QCAD Opensource version
   * You could found the CAD source file in this project root
 
 
